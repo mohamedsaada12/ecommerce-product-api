@@ -1,0 +1,1 @@
+Django>=5.0,<6.0\ndjangorestframework>=3.14,<4.0
