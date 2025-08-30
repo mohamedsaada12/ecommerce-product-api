@@ -79,5 +79,6 @@ Stock auto-reduction on orders
 
 Mohamed Saada – Backend Developer
 📧 My Email : mohamedsaada432@gmail.com
-🔗 [Your LinkedIn : www.linkedin.com/in/mohamed-saada-61459b179
-GitHub profile : https://github.com/mohamedsaada12/ecommerce-product-api]
+🔗 My LinkedIn : www.linkedin.com/in/mohamed-saada-61459b179
+🔗 My GitHub profile : https://github.com/mohamedsaada12/ecommerce-product-api]
+🔗 Portfolio: https://sites.google.com/view/mohamedsaada/home
